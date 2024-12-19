@@ -54,11 +54,10 @@
 <html>
 
 <head>
-<title>web</title>
 
 <body>
 
-<body bgcolor="white"></body>
+
 
 <marquee><font size=13><font color="#B900B1">E N O U G H T O U C H - E N O U G H T O U C H - E N O U G H   T O U C H</font></font></marquee>
  
