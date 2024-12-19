@@ -6,13 +6,11 @@
 <head>
 
 
-<title>web</title>
 
 <link rel="shortcout icon" href="b1.jpeg"
 
 </head>
 
-<body bgcolor="white"
 <hr>
 <marquee><font size=13><font color="#B900B1">E N O U G H T O U C H - E N O U G H T O U C H - E N O U G H   T O U C H</font></font></marquee>
         
